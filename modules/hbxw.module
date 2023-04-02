@@ -1,8 +1,8 @@
 #!name=烘焙小屋
 #!desc=烘焙小屋解锁会员
-#!homepage=https://github.com/deezertidal
+#!homepage=https://github.com/abisuq
 #!author=yqc007
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hbxw.png
+#!icon=https://raw.githubusercontent.com/abisuq/private/main/icons/hbxw.png
 
 [MITM]
 hostname = %APPEND% apiios_dq.xiangha.com

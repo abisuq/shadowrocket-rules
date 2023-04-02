@@ -1,8 +1,8 @@
 #!name=高德地图去广告
 #!desc=高德地图去广告
-#!homepage=https://github.com/deezertidal
+#!homepage=https://github.com/abisuq
 #!author=ddgksf2013
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/gddt.png
+#!icon=https://raw.githubusercontent.com/abisuq/private/main/icons/gddt.png
 
 [Script]
 高德地图去广告=type=http-response,script-path=^https?:\/\/.*\.amap\.com\/ws\/faas\/amap-navigation\/main-page,requires-body=1,script-path=https://github.com/ddgksf2013/Scripts/raw/master/amap.js

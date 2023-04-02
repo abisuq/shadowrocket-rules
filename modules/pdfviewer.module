@@ -1,8 +1,8 @@
 #!name=PDF Viewer
 #!desc=PDF Viewer解锁会员
-#!homepage=https://github.com/deezertidal
+#!homepage=https://github.com/abisuq
 #!author= 89996462
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/pdfviewer.png
+#!icon=https://raw.githubusercontent.com/abisuq/private/main/icons/pdfviewer.png
 [MITM]
 hostname = %APPEND% api.revenuecat.com
 [Script]

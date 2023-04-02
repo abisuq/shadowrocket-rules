@@ -1,8 +1,8 @@
 #!name=计算器HD
 #!desc=计算器HD解锁会员
-#!homepage=https://github.com/deezertidal
+#!homepage=https://github.com/abisuq
 #!author=yqc007
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/calculator.png
+#!icon=https://raw.githubusercontent.com/abisuq/private/main/icons/calculator.png
 
 [MITM]
 hostname = %APPEND% www.40sishi.com

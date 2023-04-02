@@ -1,8 +1,8 @@
 #!name=图图记账
 #!desc=图图记账解锁永久高级版
-#!homepage=https://github.com/deezertidal
+#!homepage=https://github.com/abisuq
 #!author=yqc007
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/tutu.png
+#!icon=https://raw.githubusercontent.com/abisuq/private/main/icons/tutu.png
 
 [MITM]
 hostname = %APPEND% api.revenuecat.com

@@ -1,8 +1,8 @@
 #!name=WallCraft
 #!desc=WallCraft解锁永久专业版
-#!homepage=https://github.com/deezertidal
+#!homepage=https://github.com/abisuq
 #!author=yqc007
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wallcraft.png
+#!icon=https://raw.githubusercontent.com/abisuq/private/main/icons/wallcraft.png
 
 [MITM]
 hostname = %APPEND% *.wallpaperscraft.com

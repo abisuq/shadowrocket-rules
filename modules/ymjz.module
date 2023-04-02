@@ -1,8 +1,8 @@
 #!name=一木记账
 #!desc=一木记账解锁会员
-#!homepage=https://github.com/deezertidal
+#!homepage=https://github.com/abisuq
 #!author= I-am-R-E
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ymjz.png
+#!icon=https://raw.githubusercontent.com/abisuq/private/main/icons/ymjz.png
 [MITM]
 hostname = %APPEND% yimuapp.com
 [Script]

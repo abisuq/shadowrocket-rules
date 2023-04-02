@@ -1,8 +1,8 @@
 #!name=AudioMack
 #!desc=AudioMack解锁永久订阅
-#!homepage=https://github.com/deezertidal
+#!homepage=https://github.com/abisuq
 #!author=yqc007
-#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/audiomack.png
+#!icon=https://raw.githubusercontent.com/abisuq/private/main/icons/audiomack.png
 
 [MITM]
 hostname = %APPEND% api.revenuecat.com
